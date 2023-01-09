@@ -44,7 +44,7 @@ h1 {
     background-color: #00dd00;
     margin: auto;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
 }
 
