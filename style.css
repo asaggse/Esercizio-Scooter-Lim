@@ -1,9 +1,9 @@
 /*
     Colors:
-    green: #00dd00;
-    light grey: #f2f2f2;
-    yellow: #f5b453;
-    red: #be4141;
+    light green: #00DD00;
+    yellow: #F5B453;
+    green: #1EC31E;
+    red: #BE4141;
 */
 
 body {
@@ -35,13 +35,13 @@ body {
 
 h1 {
     text-align: center;
-    color: #00dd00;
+    color: #00DD00;
 }
 
 .button-container {
     width: 600px;
     height: 50px;
-    background-color: #00dd00;
+    background-color: #00DD00;
     margin: auto;
     display: flex;
     justify-content: space-evenly;
@@ -50,7 +50,6 @@ h1 {
 
 .button:hover {
     cursor: pointer;
-    background-color: #f2f2f2;
 }
 
 .scooter {
@@ -68,16 +67,16 @@ h1 {
 }
 
 .scooter .charge#Gino22 {
-    background: #f5b453;
+    background: #F5B453;
     width: 50%;
 }
 
 .scooter .charge#Mike24 {
-    background: #00dd00;
+    background: #1EC31E;
     width: 80%;
 }
 
 .scooter .charge#Fede154 {
-    background: #be4141;
+    background: #BE4141;
     width: 20%;
 }
